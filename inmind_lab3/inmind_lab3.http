@@ -1,0 +1,6 @@
+@inmind_lab3_HostAddress = http://localhost:5095
+
+GET {{inmind_lab3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
