@@ -134,3 +134,4 @@ C:\Users\User\RiderProjects\inmind_lab3\inmind_lab3\bin\Debug\net9.0\Microsoft.O
 C:\Users\User\RiderProjects\inmind_lab3\inmind_lab3\bin\Debug\net9.0\Microsoft.OData.Edm.dll
 C:\Users\User\RiderProjects\inmind_lab3\inmind_lab3\bin\Debug\net9.0\Microsoft.OData.ModelBuilder.dll
 C:\Users\User\RiderProjects\inmind_lab3\inmind_lab3\bin\Debug\net9.0\Microsoft.Spatial.dll
+C:\Users\User\RiderProjects\inmind_lab3\inmind_lab3\obj\Debug\net9.0\inmind_lab3.sourcelink.json

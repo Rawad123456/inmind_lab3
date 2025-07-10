@@ -31,6 +31,7 @@ static IEdmModel GetEdmModel()
     builder.EntitySet<Author>("Authors");
     builder.EntitySet<Borrower>("Borrowers");
     builder.EntitySet<Loan>("Loans");
+    builder.EntitySet<Popularbook>("PopularBooks");
     return builder.GetEdmModel();
 }
 
